@@ -1,3 +1,25 @@
+# Versión 2.0.0
+
+## Proyecto / Ticket / Mantenimiento: Proyecto de Bobo bus.
+
+## Merge: 300
+
+## Autor: José Braulio Hernández López.
+
+## Lunes, 23 de dicimbre de 2022.
+
+### Nuevo ✨
+
+- 
+
+### Mejoras 🙌
+
+-
+
+### Correción de errores 🐛
+
+-
+
 <!---
 
 Cada vez que se realicen cambios en este archivo, es necesario dejar la versión y descripción 
@@ -37,7 +59,7 @@ Dejo el cascarón:
     Revisión o Z, cada vez que entregamos el proyecto.
 
 --->
-# Versión X.Y.Z
+# Versión 1.0.0
 <!---
   Colocar la fecha en la cual se sube la versión.
 --->
@@ -47,7 +69,7 @@ Dejo el cascarón:
 --->
 ### Nuevo ✨
 
--
+- Ejemplo de algo nuevo
 
 ### Mejoras 🙌
 
